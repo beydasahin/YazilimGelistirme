@@ -11,7 +11,7 @@
 	<groupId>tr.edu.medipol</groupId>
 	<artifactId>MebisRestServisi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MebisRestServisi</name>
+	<name>MebisRest Servisi</name>
 	<description>Mebis Rest Web Servisleri</description>
 
 	<properties>

@@ -1,4 +1,4 @@
-package tr.edu.medipol.mebis;
+package tr.edu.medipol.Mebis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
