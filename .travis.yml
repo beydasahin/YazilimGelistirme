@@ -1,0 +1,4 @@
+language : java
+script : "mvn -f OrnekMavenProje/pom.xml clean install test"
+jdk:
+   - openjdk8
